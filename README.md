@@ -4,3 +4,4 @@ Add changes from dev branch.
 I am working on dev branch now.
 This is a change from dev branch but not add.
 This change from master branch and AllGitProjects.
+This line for tests git fech from GitProject2 dev2 branch.
