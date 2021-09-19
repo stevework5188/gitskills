@@ -10,3 +10,4 @@ add 3rd line from GitProject2 dev2 branch.
 add 4th line from GitProject2 dev2 branch.
 add 5th line from GitProject2 dev2 branch.
 add 6th line from GitProject2 dev2 branch.
+add 7th line from GitProject2 dev2 branch.
