@@ -5,3 +5,4 @@ I am working on dev branch now.
 This is a change from dev branch but not add.
 This change from master branch and AllGitProjects.
 Add 1st line from GitProject2 master branch.
+Add 2nd line from GitProject2 master branch.
