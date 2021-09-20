@@ -32,3 +32,4 @@ add 24th line from GitProject2 feature/testPR branch.
 add 25th line from GitProject2 feature/testPR branch.
 add 26th line from GitProject2 feature/testPR branch.
 add 27th line from GitProject2 feature/testPR2 branch.
+add 28th line from AllGitProjects dev2 branch.
