@@ -6,6 +6,7 @@ This is a change from dev branch but not add.
 This change from master branch and AllGitProjects.
 This line for tests git fech from GitProject2 dev2 branch.
 add 2nd line from GitProject2 dev2 branch.
+add 21th line from AllGitProjects dev2 branch.
 add 3rd line from GitProject2 dev2 branch.
 add 4th line from GitProject2 dev2 branch.
 add 5th line from GitProject2 dev2 branch.
