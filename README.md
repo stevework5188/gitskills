@@ -21,3 +21,5 @@ add 15th line from GitProject2 dev2 branch.
 add 16th line from GitProject2 dev2 branch.
 add 17th line from GitProject2 dev2 branch.
 add 18th line from GitProject2 dev2 branch.
+Add 1st line from GitProject2 master branch.
+Add 2nd line from GitProject2 master branch.
