@@ -45,4 +45,5 @@ add 37th line from GitProject2 GitProject2/testPR1 branch.
 add 38th line from GitProject2 GitProject2/testPull branch.
 add 39th line from GitProject2 dev2 branch.
 add 40th line from GitProject2 feature/GitProject2_testPR1.
-add 42th line from GitProject2 feature/GitProject2_testPR1 branch.
+add 41th line from AllGitProjects feature/AllGitProjects_testPR1.
+add 42th line from GitProject2 feature/GitProject2_testPR1.
