@@ -49,3 +49,4 @@ add 41th line from AllGitProjects feature/AllGitProjects_testPR1.
 add 42th line from GitProject2 feature/GitProject2_testPR1.
 add 43th line from GitProject2 dev branch time1.
 add 44th line from GitProject2 dev branch time3.
+add 45th line from GitProject2 testMerge branch.
